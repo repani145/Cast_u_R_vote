@@ -7,7 +7,7 @@ lout.addEventListener('click',()=>{
     lout.style.color='white';
     lout.style.backgroundColor='red';
     window.sessionStorage.setItem('Login_user','')
-    window.location.assign('./log.html')
+    window.location.assign('https://repani145.github.io/Cast_u_R_vote/')
 })
 
 var md=document.createElement('div')
